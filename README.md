@@ -1,2 +1,2 @@
-# Codes
-Codes I have written. Please message me with any feedback! 
+
+A selection of codes used to find Eulerian and hamiltonian paths in Graphs. Please message me with any feedback! 
