@@ -8,7 +8,7 @@
 
 # Eulerian_circuit_1 finds an Eulerian Circuit by creating list of vertices from the NetworkX Graph and removing them as seen. 
 
-# Eulerian_circuit_2 finds an Eulerian Circuit by using an adjacency matrix to dtermine whether edges have been seen already.
+# Eulerian_circuit_2 finds an Eulerian Circuit by using an adjacency matrix to determine which edges have already been seen.
 
 # Eulerian_circuit_3 finds an Eulerian circuit by creating a stack of unseen neighbours and popping them from the queue to form a circuit. 
 
